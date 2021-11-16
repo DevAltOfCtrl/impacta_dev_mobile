@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArtPeak</string>
+    <string name="login_text">Faça seu login</string>
+    <string name="fazer_cadastro">Ainda não possui conta? <u><strong>Clique aqui!</strong></u></string>
+    <string name="abrir">Abrir</string>
+    <string name="fechar">Fechar</string>
+</resources>
