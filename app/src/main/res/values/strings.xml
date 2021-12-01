@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArtPeak</string>
+    <string name="login_text">Faça seu login</string>
+    <string name="fazer_cadastro">Ainda não possui conta? <u><strong>Clique aqui!</strong></u></string>
+    <string name="abrir">Abrir</string>
+    <string name="fechar">Fechar</string>
+    <string name="API_KEY">AIzaSyD725zJpvAVwT7P_bW04VgJ20Q16x-0gqs</string>
+
+
+</resources>

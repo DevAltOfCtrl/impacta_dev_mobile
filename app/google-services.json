@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515790819677",
+    "project_id": "tmjtsdevmobile",
+    "storage_bucket": "tmjtsdevmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515790819677:android:e38ab741f1b100ade898b4",
+        "android_client_info": {
+          "package_name": "br.com.artpeak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515790819677-gt2l0eqo7ukmsjcd6voldgg01av783el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEJIzpD40AmDYsDFDBltIGii2RE-UghQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515790819677-gt2l0eqo7ukmsjcd6voldgg01av783el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
